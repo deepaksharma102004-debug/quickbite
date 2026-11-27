@@ -22,7 +22,7 @@ QuickBite is a food delivery web app built with React. Browse restaurants, filte
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/quickbite.git
+git clone https://github.com/deepaksharma102004-debug/quickbite.git
 cd quickbite
 npm install
 npm run dev
